@@ -23,6 +23,8 @@ h1{
 	background-color: gray;
 	border: 2px solid black;
 	position: relative;
+	height: 200px;
+	overflow: hidden;
 }
 #chicken{
 	background-color: pink;
